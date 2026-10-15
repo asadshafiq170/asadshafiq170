@@ -1,48 +1,55 @@
-# 👋 Hi, I'm Asad Hussain
+# Hi, I'm Asad Hussain 👋
 
-💻 Python Developer | Automation Engineer | SaaS Builder  
+**Odoo Technical Consultant | Python Developer**
 
----
+I customize ERP workflows, build healthcare backends, and automate browser-based business processes. My experience spans Odoo 18/19, Django REST Framework, PostgreSQL, REST API integrations, and Playwright.
 
-## 🚀 About Me
-Python Developer focused on building scalable **multi-tenant SaaS platforms** and **AI-driven applications**.  
+## Professional Experience
 
-Currently developing robust **RCM (Revenue Cycle Management) systems** and **compliance solutions**, with strong expertise in backend architecture and automation.
+### Odoo Technical Consultant · DWP
+**29 June 2026 - Present**
 
-I enjoy solving complex problems, building secure systems, and creating intelligent workflows that scale.
+- Customize and troubleshoot Odoo modules using Python, XML, PostgreSQL, and the Odoo ORM.
+- Work on Helpdesk ticket routing, stages, agent activity tracking, and role-based access to customer and ticket information.
+- Develop master-data models for zones, cities, major areas, and branches, alongside Contacts and product configuration.
+- Review reporting modules and support Odoo 19 rebuild activities, including migration planning, workflow validation, and debugging.
 
----
+### Software Engineer / Python Developer · DevByte
+**March 2025 - 12 June 2026**
 
-## 🧠 Expertise
-- 🐍 Python Development  
-- 🌐 Django & Backend Architecture  
-- 🔗 RESTful API Design & Integration  
-- 🤖 AI & Machine Learning Integration  
-- ⚙️ Automation (Playwright, Testing)  
-- 🏥 Revenue Cycle Management (RCM) Systems  
-- 🔒 Secure & Scalable System Design  
+- Built and maintained a multi-tenant healthcare Revenue Cycle Management (RCM) platform with Django REST Framework.
+- Integrated eligibility verification through APIs, Playwright-based RPA, AI voice calls, and human-in-the-loop routing.
+- Automated payer portal interactions and data extraction, and developed an AI-powered E2E testing agent to detect UI and API issues.
 
----
+## Selected Projects
 
-## 🏗️ Current Work
-- Building scalable **multi-tenant SaaS applications**  
-- Developing **RCM workflows & billing systems**  
-- Creating **AI-powered automation solutions**  
-- 🤖 Developing an **E2E Testing Agent** to automatically test full application flows, detect issues, and ensure overall system health  
+### Odoo Helpdesk & ERP Customization
+Ticket workflows, access permissions, agent activity tracking, customer master data, and Odoo 18/19 customization and debugging.
 
----
+### Healthcare RCM & RPA Automation Platform
+Built eligibility, claims, and workflow APIs, plus a JSON-driven automation engine with conditions, loops, and **40+ actions**. Used Celery, Redis, and WebSockets for distributed execution and real-time monitoring, with AWS S3, Secrets Manager, CloudWatch, and Swagger/OpenAPI integrations.
 
-## 📊 Experience Highlights
-- Designed and developed **secure RCM systems**  
-- Handled **large-scale data processing pipelines**  
-- Built **compliance-focused healthcare solutions**  
-- Delivered **intelligent automation systems** for efficiency  
+### AI-Powered E2E Testing Agent
+Developed Playwright-driven application workflow tests covering eligibility, coding, and reporting to identify UI failures and API integration gaps.
 
----
+### Web Scraping & Appointment Automation
+Used XPath and Excel-sourced data to retrieve appointment information from websites and generate formatted PDF records.
 
-## 🛠️ Tech Stack
-```bash
-Languages: Python, C++  
-Frameworks: Django  
-Tools: Playwright, Pytest  
-Concepts: REST APIs, SaaS Architecture, Multi-Tenancy, Automation  
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, SQL, XML |
+| ERP & Frameworks | Odoo 18/19, Odoo ORM, Django, Django REST Framework |
+| Backend | PostgreSQL, REST APIs, Celery, Redis, WebSockets |
+| Automation & Tools | Playwright, XPath, Git, Postman, Odoo.sh, Swagger/OpenAPI |
+| Cloud | AWS S3, Secrets Manager, CloudWatch |
+| Practices | Agile/Scrum, workflow validation, browser automation |
+
+## Education
+
+**Bachelor of Science in Computer Science** · November 2022 - 2026
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/asad-hussain-624302178) · [GitHub](https://github.com/asadshafiq170)
